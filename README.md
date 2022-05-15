@@ -1,1 +1,1 @@
-# WQU_FinancialEngineering
+# WQU_Financial_Engineering
